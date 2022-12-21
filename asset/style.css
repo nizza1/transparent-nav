@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: black;
+    opacity: 0.5;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+
+.header h1 {
+    color: aliceblue;
+}
+
+.menu a {
+    color: aliceblue;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+section {
+    background-image: url(./img/andrea-de-santis-oKTvyWI3AjM-unsplash.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
